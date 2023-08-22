@@ -9,5 +9,5 @@ class ReorderingMultiSelectPanel(pn.widgets.MultiSelect):
 
 if __name__ == '__main__':
     w  = ReorderingMultiSelectPanel()
-    w.options = ['a', 'b', 'c']
+    w.options = ['a', 'b', 'c', 'd']
     w.show()
